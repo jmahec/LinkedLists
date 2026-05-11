@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DoubleList/DoubleList.csproj" Id="8c43091e-bb99-43d1-be9f-75097e1f10ba" />
+  <Project Path="LinkedLists.Console/LinkedLists.Console.csproj" Id="1317d29d-edbf-4d4e-b081-a4ea5f9f17d6" />
+  <Project Path="Shared/Shared.csproj" />
+  <Project Path="SimpleList/SimpleList.csproj" Id="b51ca2c5-20c7-46bd-98a1-436a637b9b7b" />
+</Solution>
