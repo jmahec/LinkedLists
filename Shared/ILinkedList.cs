@@ -2,7 +2,7 @@ namespace Shared;
 
 public interface ILinkedList<T>
 {
-    // Original methods
+   
     bool Contains(T data);
     void InsertAtBeginning(T data);
     void InsertAtEnding(T data);
